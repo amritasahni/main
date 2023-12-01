@@ -1,1 +1,6 @@
+What is Tags in HTML ?
+HTML Tags are building blocks of HTML Page. They tell the browser how it should display content to the user. A tag starts with a < bracket and ends with a > bracket. Most tags exist in pairs in HTML. Tags have an opening and closing part. They are similar, except the closing part has a / sign after the opening bracket.
 
+What is Elements in HTML ?
+HTML Element includes a start tag, content, and an end tag. HTML Elements are components of the web page.
+An HTML element consists of a start tag, some content, and an end tag
