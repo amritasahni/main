@@ -1,0 +1,2 @@
+What is doctyppe in HTML ?
+A doctype is a document type declaration (DTD), which informs the browser about the document to be expected on the webpage. The HTML doctype is not a tag or element of the HTML; rather, the HTML doctype tells the browser about the specifications like the version of the HTML or the standards.
